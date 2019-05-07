@@ -1,0 +1,2 @@
+/* db-migrate create add-student --sql-file */
+INSERT INTO student_migrate (id,name,address,batch_id) VALUES ('1','Rifqi Abrory','Tangerang Selatan','1'),VALUES ('1','Rifqi Abrory','Tangerang Selatan','1');
